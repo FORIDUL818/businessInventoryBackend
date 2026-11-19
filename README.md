@@ -1,1 +1,3 @@
-hi my name is Foridul islam this is my practice site okey
+# BusinessInventory management app 
+
+### folder strucuture setup and server setup
